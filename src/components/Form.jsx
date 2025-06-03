@@ -21,7 +21,7 @@ function Form() {
       setWin(true);
       setTimeout(() => {
         setWin(false);
-      }, 1000);
+      }, 1500);
     }
   };
   console.log(count);
